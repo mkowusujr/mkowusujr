@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathew Owusu Jr :)</h1>
+<h1 align="center">Howdy 🤠, I'm Mathew Owusu Jr :)</h1>
 <h3 align="center">A 2nd year CS Major at R.I.T. who enjoys customizing his Linux Rice, listening to music, and going on long bike rides</h3>
 
 - 🔭 I’m currently working on **Mu-Allegro**
@@ -17,11 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite)](https://skillicons.dev)
 
-<a href="https://github.com/mkowusujr/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/mkowusujr/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 <h3>Web Development</h3>
 
@@ -30,4 +26,3 @@
 <h3>Other</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,linux,gtk,vscode,vim)](https://skillicons.dev)
-
