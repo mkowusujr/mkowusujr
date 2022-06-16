@@ -1,28 +1,27 @@
-<h1 align="center">Howdy 🤠, I'm Mathew Owusu Jr :)</h1>
-<h3 align="center">A 2nd year CS Major at R.I.T. who enjoys customizing his Linux Rice, listening to music, and going on long bike rides</h3>
+<h3 align="center">👋 Hi there! I'm Mathew Owusu Jr</h3>
 
-- 🔭 I’m currently working on **Mu-Allegro**
+
+---
+
+<p><em>Studying Computer Science at <a href="http://www.rit.edu">Rochester Institute of Technology</em></a>
+
+#### ✨ BIO
+
+- 🔭 I’m currently working on a personal project call **Mu-Allegro** a mock ecommerce webapp for buying and selling instruments
 
 - 🌱 I’m currently learning **Express.js**
 
 - 📫 You can reach me at **mathewowusujr@gmail.com**
 
-- ⚡ Fun fact **I love Star Wars and Superheroes and bikes and music :)**
+- ⚡ Fun fact **I love Star Wars and Superheroes 🥰**
 
 
 
-<h2>⚒️ Tools I use</h2>
+####  🚧 I Build With
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite,js,html,css,angular,ts,flask,scss,spring,heroku,git,linux,gtk,vscode,vim)](https://skillicons.dev)
 
-<h3>Languages</h3>
+<a align="center" href="https://github.com/mkowusujr/github-stats-transparent">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite)](https://skillicons.dev)
+![](https://raw.githubusercontent.com/mkowusujr/github-stats-transparent/output/generated/languages.svg)
 
-
-
-<h3>Web Development</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,flask,scss,spring,heroku)](https://skillicons.dev)
-
-<h3>Other</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=git,linux,gtk,vscode,vim)](https://skillicons.dev)
+</a>
