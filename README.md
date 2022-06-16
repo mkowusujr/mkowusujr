@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Mathew Owusu Jr</h3>
+<h3 align="center">👋 Hello there! I'm Mathew Owusu Jr</h3>
 
 
 ---
@@ -20,7 +20,7 @@
 
 
 ####  🚧 I Build With
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite,js,html,css,angular,ts,flask,scss,spring,heroku,git,linux,gtk,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite,js,html,css,angular,ts,flask,scss,spring,nodejs,express,heroku,git,linux,gtk,vscode,vim)](https://skillicons.dev)
 
 <a align="center" href="https://github.com/mkowusujr/github-stats-transparent">
 
