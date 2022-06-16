@@ -3,7 +3,9 @@
 
 ---
 
-<p><em>Studying Computer Science at <a href="http://www.rit.edu">Rochester Institute of Technology</em></a>
+<p align="center"><em>Studying Computer Science at <a href="http://www.rit.edu">Rochester Institute of Technology</em></a>
+<br>
+<br>
 
 #### ✨ BIO
 
