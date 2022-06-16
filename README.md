@@ -9,13 +9,9 @@
 
 - ⚡ Fun fact **I love Star Wars and Superheroes and bikes and music :)**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkowusujr&theme=monokai)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mkowusujr&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <h2>⚒️ Tools I use</h2>
-
--------
 
 <h3>Languages</h3>
 
