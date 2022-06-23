@@ -9,7 +9,7 @@
 
 #### ✨ BIO
 
-- 🔭 I’m currently working on a personal project call **Mu-Allegro** a mock ecommerce webapp for buying and selling instruments
+- 🔭 I’m currently working on a personal project call **[Mullegro](https://github.com/mkowusujr/mullegro)** a mock ecommerce webapp for buying and selling instruments
 
 - 🌱 I’m currently learning **Express.js**
 
@@ -20,7 +20,9 @@
 
 
 ####  🚧 I Build With
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite,js,html,css,angular,ts,flask,scss,spring,nodejs,express,heroku,git,linux,gtk,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,flask,scss,spring,nodejs,express,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,gtk,vscode,vim)](https://skillicons.dev)
 
 <a align="center" href="https://github.com/mkowusujr/github-stats-transparent">
 
