@@ -20,8 +20,11 @@
 
 
 ####  🚧 I Build With
+##### These Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite)](https://skillicons.dev)
+##### These Webframeworks and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,flask,scss,spring,nodejs,express,heroku)](https://skillicons.dev)
+##### And these aswell
 [![My Skills](https://skillicons.dev/icons?i=git,linux,gtk,vscode,vim)](https://skillicons.dev)
 
 <a align="center" href="https://github.com/mkowusujr/github-stats-transparent">
