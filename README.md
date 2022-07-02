@@ -21,9 +21,9 @@
 
 ####  🚧 I Build With
 ##### These Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,sqlite)](https://skillicons.dev)
-##### These Webframeworks and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,flask,scss,spring,nodejs,express,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,sqlite)](https://skillicons.dev)
+##### These Tools and Webframeworks
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,angular,flask,spring,nodejs,express,heroku)](https://skillicons.dev)
 ##### And these aswell
 [![My Skills](https://skillicons.dev/icons?i=git,linux,gtk,vscode,vim)](https://skillicons.dev)
 
