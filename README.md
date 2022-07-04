@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a personal project call **[Mullegro](https://github.com/mkowusujr/mullegro)** a mock ecommerce webapp for buying and selling instruments
 
-- 🌱 I’m currently learning more about **Angular**
+- 🌱 I’m currently learning more about the [**Angular Framework**](https://angular.io/) and [**ExpressJS**](https://expressjs.com/)
 
 - 📫 You can reach me at **mathewowusujr@gmail.com**
 
