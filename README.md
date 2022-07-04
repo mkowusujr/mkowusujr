@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a personal project call **[Mullegro](https://github.com/mkowusujr/mullegro)** a mock ecommerce webapp for buying and selling instruments
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning more about **Angular**
 
 - 📫 You can reach me at **mathewowusujr@gmail.com**
 
@@ -29,6 +29,6 @@
 
 <a align="center" href="https://github.com/mkowusujr/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/mkowusujr/github-stats-transparent/output/generated/languages.svg)
+![stats](https://raw.githubusercontent.com/mkowusujr/github-stats-transparent/output/generated/languages.svg)
 
 </a>
