@@ -21,7 +21,7 @@
 
 ####  🚧 I Build With
 ##### These Languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,cs,c,fs,sqlite,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,cs,c,sqlite,dotnet)](https://skillicons.dev)
 ##### These Tools and Webframeworks
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,angular,flask,spring,nodejs,express,heroku)](https://skillicons.dev)
 ##### And these aswell
